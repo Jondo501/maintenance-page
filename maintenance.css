@@ -1,0 +1,29 @@
+#main{
+    width: 780px;
+    margin: 0 auto;
+    padding-top: 5%;
+}
+
+#left{
+    font-size: xx-large;
+    background-color: rgb(248, 213, 58);
+    float: left;
+    padding: 45px;
+    margin-right: 10%;
+    box-shadow: 10px 5px 5px rgb(131, 131, 131);
+    transform: rotate(-7deg);
+}
+
+#right{
+    padding-top: 20px;
+}
+
+#upper{
+    font-size:16px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#lower{
+    font-size:12px;
+    font-family:Arial, Helvetica, sans-serif;
+}
