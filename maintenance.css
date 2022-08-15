@@ -5,17 +5,19 @@
 }
 
 #left{
-    font-size: xx-large;
+    font-size: 30px;
+    font-family: Schoolbell, Fuzzy Bubbles, Gaegu;
     background-color: rgb(248, 213, 58);
     float: left;
-    padding: 45px;
+    padding: 30px 45px 30px 45px;
     margin-right: 10%;
-    box-shadow: 10px 5px 5px rgb(131, 131, 131);
-    transform: rotate(-7deg);
+    box-shadow: 8px 14px 12px rgba(77, 74, 74, 0.616);
+    transform: rotate(-9deg);
+    text-align: right;
 }
 
 #right{
-    padding-top: 20px;
+    padding-top: 35px;
 }
 
 #upper{
